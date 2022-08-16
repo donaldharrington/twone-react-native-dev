@@ -1,0 +1,13 @@
+current directory: /Users/meggiemeggie/Documents/GitHub/twone-react-native/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/meggiemeggie/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/meggiemeggie/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20220705-70381-tts1o4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/meggiemeggie/Documents/GitHub/twone-react-native/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/meggiemeggie/Documents/GitHub/twone-react-native/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/meggiemeggie/Documents/GitHub/twone-react-native/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
